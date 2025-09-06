@@ -88,7 +88,7 @@ const server = http.createServer((req, res) => {
 </head>
 <body>
   <div class="header">
-    <h1>DevOps Lab 2025</h1>
+    <h1>DevOps Lab 2026</h1>
     <p>Modern Node.js application with CI/CD pipeline</p>
   </div>
   <h2>Available Endpoints:</h2>
