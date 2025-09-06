@@ -90,6 +90,7 @@ const server = http.createServer((req, res) => {
   <div class="header">
     <h1>DevOps Lab 2026</h1>
     <p>Modern Node.js application with CI/CD pipeline</p>
+    <p>DevOps Practice By Azeta Blessing</p>
   </div>
   <h2>Available Endpoints:</h2>
   <div class="endpoint"><strong>GET /</strong> - This welcome page</div>
